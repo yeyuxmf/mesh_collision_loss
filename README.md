@@ -10,3 +10,10 @@
 # Experimental result
 ![Experimental](https://github.com/huang229/mesh_collision_loss/assets/29627190/f9ab3708-b425-4d12-a484-a43a742f676b)
 
+# Reference
+1. https://docs.torchdrivesim.org/en/latest/_modules/torchdrivesim/infractions.html
+2. https://github.com/facebookresearch/pytorch3d
+
+#Train
+  python ./mesh_collision_loss.py
+
