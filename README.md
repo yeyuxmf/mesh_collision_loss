@@ -16,6 +16,15 @@
 1. https://docs.torchdrivesim.org/en/latest/_modules/torchdrivesim/infractions.html
 2. https://github.com/facebookresearch/pytorch3d
 
+   
+# Environment
+1.python 3.7.0
+
+2.pytorch 11.3.1
+
+3.pytorch3D 0.7.4
+
+
 # Train
   python ./mesh_collision_loss.py
 
