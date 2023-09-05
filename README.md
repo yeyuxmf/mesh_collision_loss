@@ -24,6 +24,8 @@
 
 3.pytorch3D 0.7.4
 
+4.vedo 2023.4.4
+
 
 # Train
   python ./mesh_collision_loss.py
