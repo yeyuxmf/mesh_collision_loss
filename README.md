@@ -33,5 +33,5 @@
 # License and Citation
 1.Without permission, the design concept of this model shall not be used for commercial purposes, profit seeking, etc.
 
-2.If you refer to the design concept of this model for theoretical research and publication of papers on automatic tooth arrangement, please also add a reference.
+2.If you refer to the design concept of this model for theoretical research, please also add a reference.
 
