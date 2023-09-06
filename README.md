@@ -7,6 +7,11 @@
 2. Secondly, the distance between points and faces is converted into the distance between the point and the center point of the face.
 3. This operation is simple, fast, and experimental results show effectiveness.
 
+# Visualization Tool Installation Package
+链接：https://pan.baidu.com/s/1SMPms9_GoujxcmbTCV0K3Q 
+提取码：fiid  
+This is a 3D visualization tool that supports visualization of stl files and point cloud txt file formats.
+
 # Experimental result
 ![Experimental](https://github.com/huang229/mesh_collision_loss/assets/29627190/f9ab3708-b425-4d12-a484-a43a742f676b)
 ![loss](https://github.com/huang229/mesh_collision_loss/assets/29627190/e2f4aca9-b1fa-42b8-8d51-0f1ca0224dcc)
