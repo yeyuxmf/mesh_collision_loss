@@ -1,6 +1,6 @@
 # mesh_collision_loss
 
-1. This is just a streamlined implementation, you can make appropriate adjustments according to the specific situation.
+1. This is only a simple application, not an accurate calculation. You can make modifications according to your own needs.
 
 # Implementation principle:
 1. Here, collisions between different meshes are transformed into collisions between a group of point clouds and meshes.
