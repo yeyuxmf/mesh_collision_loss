@@ -8,7 +8,7 @@
 3. This operation is simple, fast, and experimental results show effectiveness.
 
 # Visualization Tool Installation Package
-链接：https://pan.baidu.com/s/1SMPms9_GoujxcmbTCV0K3Q 
+链接：https://pan.baidu.com/s/1SMPms9_GoujxcmbTCV0K3Q   （Geomagic Wrap 2013 (64 bit)）
 提取码：fiid  
 This is a 3D visualization tool that supports visualization of stl files and point cloud txt file formats.
 
